@@ -38,3 +38,7 @@ To bootstrap your workspace:
 git clone git@github.com:pausiam/my-ish-repo.git
 cd my-ish-repo
 sh setup.sh
+
+hello.sh         # Bash CLI
+todo add "task"  # Python TODO manager
+sync             # Push local changes
