@@ -32,7 +32,7 @@ This repository contains personal tools and configuration files for working insi
 
 ## 🚀 Getting Started
 
-To bootstrap your workspace:
+To bootstrap my workspace:
 
 ```sh
 git clone git@github.com:pausiam/my-ish-repo.git
