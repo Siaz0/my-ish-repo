@@ -1,3 +1,1 @@
-#!/bin/sh
-
-echo "Hello from your Bash CLI!"
+echo "Hello from iSH!"
