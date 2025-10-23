@@ -1,0 +1,17 @@
+{
+    "urls": [
+        "https://example.com",
+        "https://jsonplaceholder.typicode.com/users/1"
+    ],
+    "fields": [
+        "title",
+        "email",
+        "name"
+    ],
+    "output_file": "data_output.txt",
+    "log_file": "run_log.txt",
+    "mode": "auto",
+    "retries": 3,
+    "timeout": 10,
+    "export_format": "xlsx"
+}
