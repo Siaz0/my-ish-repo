@@ -35,7 +35,7 @@ This repository contains personal tools and configuration files for working insi
 My workspace:
 
 ```sh
-git clone git@github.com:pausiam/my-ish-repo.git
+git clone git@github.com:Siaz0/my-ish-repo.git
 cd my-ish-repo
 sh setup.sh
 
